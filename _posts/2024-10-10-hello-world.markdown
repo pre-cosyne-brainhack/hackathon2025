@@ -1,7 +1,7 @@
 ---
-title:      "Welcome"
+title:      "Hello World"
 date:       2024-10-10 16:00:00 +0100
-categories: update
+categories: blog
 author:     Florian
 ---
 Welcome to the new website for the 2025 edition of the Pre-COSYNE Brainhack.

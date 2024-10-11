@@ -1,25 +1,26 @@
 ---
 title: Schedule
-order: 3
 icon: fa fa-calendar-days
+order: 30
+published: false
 ---
 
 Monday, January 26th
-====================
+--------------------
 
 | Time  | Description                                     |
 | ----- | ----------------------------------------------- |
 | 09:00 | Project brainstorming and meet-and-greet (Zoom) |
 
 Monday, February 26th
-=====================
+---------------------
 
 | Time  | Description                             |
 | ----- | --------------------------------------- |
 | 19:30 | Meet at _O Lutador_ for dinner together |
 
 Tuesday, February 27th
-======================
+----------------------
 
 | Time  | Description                                   |
 | ----- | --------------------------------------------- |
@@ -34,7 +35,7 @@ Tuesday, February 27th
 | 19:00 | Go out to dinner together at Mercado de Alges |
 
 Wednesday, February 28th
-========================
+------------------------
 
 | Time  | Description                                            |
 | ----- | ------------------------------------------------------ |
