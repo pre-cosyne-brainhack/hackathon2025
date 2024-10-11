@@ -27,7 +27,7 @@ The following code of conduct has been adapted from:
 
 Other online resources:
 
-* <http://changingourcampus.org>
+* <https://changingourcampus.org>
 * <https://www.sfn.org/Membership/Professional-Conduct/SfNEthics-Policy>
 
 Responsibilities
