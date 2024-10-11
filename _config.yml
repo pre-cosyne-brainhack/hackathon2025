@@ -100,8 +100,8 @@ comments:
   giscus:
     repo: "pre-cosyne-brainhack/hackathon2025"
     repo_id: "R_kgDOM-UrUg"
-    category: "Comments"
-    category-id: "DIC_kwDOM-UrUs4CjQ9e"
+    category: "giscus"
+    category-id: "DIC_kwDOM-UrUs4CjR5X"
     # mapping: # optional, default to 'pathname'
     # strict: # optional, default to '0'
     # input_position: # optional, default to 'bottom'
