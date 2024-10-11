@@ -98,8 +98,8 @@ toc: true
 comments:
   provider: giscus
   giscus:
-    repo: pre-cosyne-brainhack/hackathon2025
-    repo_id: R_kgDOM-UrUg
+    repo: "pre-cosyne-brainhack/hackathon2025"
+    repo_id: "R_kgDOM-UrUg"
     category: "Discussions"
     category-id: "DIC_kwDOM-UrUs4CjQ9e"
     # mapping: # optional, default to 'pathname'
