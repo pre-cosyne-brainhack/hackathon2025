@@ -63,7 +63,7 @@ analytics:
 
 # Page views settings
 pageviews:
-  provider: 'goatcounter'
+  provider: "goatcounter"
 
 # Prefer color scheme setting.
 #
@@ -203,7 +203,8 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-# # Custom headers
-# webrick:
-#   headers:
-#     Content-Security-Policy: script-src 'self' https://gc.zgo.at https://cdn.jsdelivr.net; script-src-elem 'self' https://cdn.jsdelivr.net; connect-src 'self' https://MYCODE.goatcounter.com/count;
+# Custom headers
+webrick:
+  headers:
+    Content-Security-Policy: form-action 'self'; manifest-src 'self' https://gc.zgo.at static.zgo.at; frame-ancestors 'none'; frame-src 'self' https://giscus.app; img-src 'self' https://gc.zgo.at static.zgo.at data:; style-src 'self' https://gc.zgo.at static.zgo.at https://cdn.jsdelivr.net https://giscus.app; default-src 'none'; script-src 'self' 'unsafe-inline' https://giscus.app https://gc.zgo.at static.zgo.at https://cdn.jsdelivr.net; font-src 'self' https://gc.zgo.at static.zgo.at; connect-src 'self' https://precosynebrainhack.goatcounter.com;
+    Access-Control-Allow-Origin: "*"
