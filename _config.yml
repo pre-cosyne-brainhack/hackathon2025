@@ -203,7 +203,7 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-# Custom headers
-webrick:
-  headers:
-    Content-Security-Policy: script-src 'self' https://gc.zgo.at https://cdn.jsdelivr.net; script-src-elem 'self' https://cdn.jsdelivr.net; connect-src 'self' https://MYCODE.goatcounter.com/count;
+# # Custom headers
+# webrick:
+#   headers:
+#     Content-Security-Policy: script-src 'self' https://gc.zgo.at https://cdn.jsdelivr.net; script-src-elem 'self' https://cdn.jsdelivr.net; connect-src 'self' https://MYCODE.goatcounter.com/count;
