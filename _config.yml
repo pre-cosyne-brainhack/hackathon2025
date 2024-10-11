@@ -171,7 +171,6 @@ defaults:
     values:
       layout: page
       permalink: /:title/
-      comments: true
 
 sass:
   style: compressed
