@@ -202,3 +202,8 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# Custom headers
+webrick:
+  headers:
+    Content-Security-Policy: default-src 'none'; script-src 'self' https://gc.zgo.at; connect-src 'self' https://precosynebrainhack.goatcounter.com/count; img-src 'self'; style-src 'self'; 
