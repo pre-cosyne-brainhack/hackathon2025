@@ -15,9 +15,8 @@ platforms:
       - label: photog.social
         link: "https://photog.social/"
 
-
   - type: Twitter
-    icon: "fa-brands fa-square-x-twitter"
+    icon: "fa-brands fa-twitter"
     link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
 
   - type: Facebook
@@ -39,9 +38,9 @@ platforms:
   #   link: "https://service.weibo.com/share/share.php?title=TITLE&url=URL"
   #
 
-  - type: Bluesky
-    icon: "fa-brands fa-bluesky"
-    link: "https://bsky.app/intent/compose?text=TITLE%20URL"
+  # - type: Bluesky
+  #   icon: "fa-brands fa-bluesky"
+  #   link: "https://bsky.app/intent/compose?text=TITLE%20URL"
 
   # - type: Reddit
   #   icon: "fa-brands fa-square-reddit"
