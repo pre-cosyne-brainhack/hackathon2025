@@ -1,5 +1,7 @@
 ---
-layout: home
+title: About
+order: 2
+icon: fa fa-circle-info
 ---
 
 Pre-COSYNE Brainhack is a hackathon that brings together people who are passionate about open science, open-source tools, and collaboration around computational and systems neuroscience. The hackathon provides an opportunity for people from different institutions to work together on projects of shared interest and learn from each other.

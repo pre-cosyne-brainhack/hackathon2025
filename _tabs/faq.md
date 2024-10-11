@@ -1,7 +1,6 @@
 ---
-layout: page
 title: FAQ
-permalink: /faq/
+icon: fas fa-circle-question
 ---
 
 Will travel or accommodation be provided?

@@ -1,7 +1,6 @@
 ---
-layout: page
 title: Code of Conduct
-permalink: /code-of-conduct/
+icon: fa fa-section
 ---
 
 Introduction
