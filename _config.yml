@@ -16,7 +16,7 @@ timezone: America/Toronto
 
 title: Pre-COSYNE Brainhack 2025 # the main title
 
-tagline: March 2025, Montreal # it will display as the subtitle
+tagline: March 25–26 2025, Montreal # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   The 2025 edition of the Pre-COSYNE Brainhack in Montreal, Canada.
@@ -202,3 +202,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+plugins:
+  - jekyll-leaflet
