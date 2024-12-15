@@ -38,9 +38,9 @@ platforms:
   #   link: "https://service.weibo.com/share/share.php?title=TITLE&url=URL"
   #
 
-  # - type: Bluesky
-  #   icon: "fa-brands fa-bluesky"
-  #   link: "https://bsky.app/intent/compose?text=TITLE%20URL"
+  - type: Bluesky
+    icon: "fa-brands fa-bluesky"
+    link: "https://bsky.app/intent/compose?text=TITLE%20URL"
 
   # - type: Reddit
   #   icon: "fa-brands fa-square-reddit"
