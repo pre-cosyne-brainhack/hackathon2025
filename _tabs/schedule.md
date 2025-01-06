@@ -13,14 +13,14 @@ table th:nth-of-type(2) {
 }
 </style>
 
-### Monday, March 25th
+### Monday, March 24th
 
 | Time          | Description             |
 | ------------- | ----------------------- |
 | 19:00 – 19:15 | Meet in the hotel lobby |
 | 19:15         | Go to dinner together   |
 
-### Tuesday, March 26th
+### Tuesday, March 25th
 
 | Time          | Description                  |
 | ------------- | ---------------------------- |
@@ -35,7 +35,7 @@ table th:nth-of-type(2) {
 | 17:30 – 18:30 | Speed networking             |
 | 19:00         | Go out to dinner together    |
 
-### Wednesday, March 27th
+### Wednesday, March 26th
 
 | Time          | Description                    |
 | ------------- | ------------------------------ |
