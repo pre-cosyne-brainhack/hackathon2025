@@ -5,4 +5,4 @@ author: Florian
 ---
 
 Applications to the Pre-COSYNE Brainhack 2025 in Montreal, Canada are closed.
-We will notify applicants about whether they have been accepted or waitlisted by January 22, 2025.
+We will notify applicants about whether they have been accepted or waitlisted by January 24, 2025.
