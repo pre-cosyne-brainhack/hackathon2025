@@ -36,13 +36,13 @@ table th:nth-of-type(2) {
 
 ### Wednesday, March 26th
 
-| Time          | Description                                               |
-| ------------- | --------------------------------------------------------- |
-| 08:30 – 09:00 | Breakfast                                                 |
-| 09:00 – 10:00 | Unconference presentations                                |
-| 10:00 – 12:30 | Hacking                                                   |
-| 12:30 – 13:30 | Lunch / Hacking                                           |
-| 13:30 – 16:00 | Hacking                                                   |
-| 16:00 – 16:15 | Coffee break                                              |
-| 16:15 – 18:30 | Wrap-up and closing                                       |
-| 19:15         | Simons Foundation social at Le Centre Sheraton in Salon 3 |
+| Time          | Description                 |
+| ------------- | --------------------------- |
+| 08:30 – 09:00 | Breakfast                   |
+| 09:00 – 10:00 | Unconference presentations  |
+| 10:00 – 12:30 | Hacking                     |
+| 12:30 – 13:30 | Lunch / Hacking             |
+| 13:30 – 16:00 | Hacking                     |
+| 16:00 – 16:15 | Coffee break                |
+| 16:15 – 18:30 | Wrap-up and closing         |
+| 19:15         | Simons Foundation social    |
