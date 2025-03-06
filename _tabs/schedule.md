@@ -15,10 +15,9 @@ table th:nth-of-type(2) {
 
 ### Monday, March 24th
 
-| Time          | Description             |
-| ------------- | ----------------------- |
-| 19:00 – 19:15 | Meet in the hotel lobby |
-| 19:15         | Go to dinner together   |
+| Time          | Description                                  |
+| ------------- | -------------------------------------------- |
+| 19:30         | Meet at restaurant for dinner together (TBD) |
 
 ### Tuesday, March 25th
 
@@ -37,13 +36,13 @@ table th:nth-of-type(2) {
 
 ### Wednesday, March 26th
 
-| Time          | Description                    |
-| ------------- | ------------------------------ |
-| 08:30 – 09:00 | Breakfast                      |
-| 09:00 – 10:00 | Unconference presentations     |
-| 10:00 – 12:30 | Hacking                        |
-| 12:30 – 13:30 | Lunch / Hacking                |
-| 13:30 – 16:00 | Hacking                        |
-| 16:00 – 16:15 | Coffee break                   |
-| 16:15 – 18:30 | Wrap-up and closing            |
-| 19:00         | Go out to dinner together      |
+| Time          | Description                 |
+| ------------- | --------------------------- |
+| 08:30 – 09:00 | Breakfast                   |
+| 09:00 – 10:00 | Unconference presentations  |
+| 10:00 – 12:30 | Hacking                     |
+| 12:30 – 13:30 | Lunch / Hacking             |
+| 13:30 – 16:00 | Hacking                     |
+| 16:00 – 16:15 | Coffee break                |
+| 16:15 – 18:30 | Wrap-up and closing         |
+| 19:15         | Simons Foundation social    |
