@@ -30,9 +30,9 @@ table th:nth-of-type(2) {
 | 12:30 – 13:30 | Lunch / Hacking              |
 | 13:30 – 16:00 | Hacking                      |
 | 16:00 – 16:15 | Coffee break                 |
-| 16:15 – 17:30 | Hacking                      |
-| 17:30 – 18:30 | Speed networking             |
-| 19:00         | Go out to dinner together    |
+| 16:15 – 17:00 | Hacking                      |
+| 17:00 – 18:00 | Speed networking             |
+| 18:30         | Go out to dinner together    |
 
 ### Wednesday, March 26th
 
@@ -42,7 +42,7 @@ table th:nth-of-type(2) {
 | 09:00 – 10:00 | Unconference presentations  |
 | 10:00 – 12:30 | Hacking                     |
 | 12:30 – 13:30 | Lunch / Hacking             |
-| 13:30 – 16:00 | Hacking                     |
-| 16:00 – 16:15 | Coffee break                |
-| 16:15 – 18:30 | Wrap-up and closing         |
-| 19:15         | Simons Foundation social    |
+| 13:30 – 15:30 | Hacking                     |
+| 15:30 – 15:45 | Coffee break                |
+| 15:45 – 18:00 | Wrap-up and closing         |
+| 18:45         | Simons Foundation social    |
