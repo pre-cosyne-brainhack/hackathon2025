@@ -38,7 +38,7 @@ table th:nth-of-type(2) {
 
 | Time          | Description                 |
 | ------------- | --------------------------- |
-| 08:30 – 09:00 | Breakfast                   |
+| 08:30 – 09:00 | Breakfast and coffee        |
 | 09:00 – 10:00 | Unconference presentations  |
 | 10:00 – 12:30 | Hacking                     |
 | 12:30 – 13:30 | Lunch / Hacking             |
