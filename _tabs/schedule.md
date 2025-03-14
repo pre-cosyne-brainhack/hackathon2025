@@ -15,9 +15,9 @@ table th:nth-of-type(2) {
 
 ### Monday, March 24th
 
-| Time          | Description                                  |
-| ------------- | -------------------------------------------- |
-| 19:30         | Meet at restaurant for dinner together (TBD) |
+| Time          | Description                  |
+| ------------- | ---------------------------- |
+| 19:30         | TBD dinner social (optional) |
 
 ### Tuesday, March 25th
 
@@ -43,6 +43,6 @@ table th:nth-of-type(2) {
 | 10:00 – 12:30 | Hacking                     |
 | 12:30 – 13:30 | Lunch / Hacking             |
 | 13:30 – 15:30 | Hacking                     |
-| 15:30 – 15:45 | Coffee break                |
-| 15:45 – 18:00 | Wrap-up and closing         |
+| 15:45 – 16:00 | Coffee break                |
+| 16:00 – 18:00 | Wrap-up and closing         |
 | 18:45         | Simons Foundation social    |
