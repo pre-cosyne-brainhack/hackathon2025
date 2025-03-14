@@ -15,9 +15,9 @@ table th:nth-of-type(2) {
 
 ### Monday, March 24th
 
-| Time          | Description                  |
-| ------------- | ---------------------------- |
-| 19:30         | TBD dinner social (optional) |
+| Time          | Description              |
+| ------------- | ------------------------ |
+| 19:00         | Dinner social (optional) |
 
 ### Tuesday, March 25th
 
