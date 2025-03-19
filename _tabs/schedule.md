@@ -15,24 +15,24 @@ table th:nth-of-type(2) {
 
 ### Monday, March 24th
 
-| Time          | Description              |
-| ------------- | ------------------------ |
-| 19:00         | Dinner social (optional) |
+| Time          | Description                                   |
+| ------------- | --------------------------------------------- |
+| 19:00         | Dinner social (optional, at your own expense) |
 
 ### Tuesday, March 25th
 
-| Time          | Description                  |
-| ------------- | ---------------------------- |
-| 08:30 – 09:00 | Breakfast and coffee         |
-| 09:00 – 09:15 | Welcome                      |
-| 09:15 – 10:15 | Project pitches and mingling |
-| 10:15 – 12:30 | Hacking                      |
-| 12:30 – 13:30 | Lunch / Hacking              |
-| 13:30 – 16:00 | Hacking                      |
-| 16:00 – 16:15 | Coffee break                 |
-| 16:15 – 17:00 | Hacking                      |
-| 17:00 – 18:00 | Speed networking             |
-| 18:30         | Go out to dinner together    |
+| Time          | Description                        |
+| ------------- | ---------------------------------- |
+| 08:30 – 09:00 | Breakfast and coffee               |
+| 09:00 – 09:15 | Welcome                            |
+| 09:15 – 10:15 | Project pitches and mingling       |
+| 10:15 – 12:30 | Hacking                            |
+| 12:30 – 13:30 | Lunch / Hacking                    |
+| 13:30 – 16:00 | Hacking                            |
+| 16:00 – 16:15 | Coffee break                       |
+| 16:15 – 17:00 | Hacking                            |
+| 17:00 – 18:00 | Speed networking                   |
+| 18:30         | Group dinner (at your own expense) |
 
 ### Wednesday, March 26th
 
